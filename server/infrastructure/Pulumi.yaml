@@ -1,0 +1,3 @@
+name: dnscat2
+description: dnscat2 on ec2
+runtime: go

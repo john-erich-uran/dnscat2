@@ -1,2 +1,5 @@
 vendor
 .bundle
+keys
+infrastructure/server.tar.gz
+infrastructure/Pulumi.dev.yaml
